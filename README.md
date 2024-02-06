@@ -14,6 +14,8 @@ I am an electrical engineer and a computer technician. With over 3 years of expe
 <img loading="lazy" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson9246&layout=compact&langs_count=7&theme=dracula"/>
     
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2014%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -33,14 +35,14 @@ I am an electrical engineer and a computer technician. With over 3 years of expe
 ```text
 🌞 Morning                10714 commits       ██████████░░░░░░░░░░░░░░░   39.68 % 
 🌆 Daytime                14997 commits       ██████████████░░░░░░░░░░░   55.54 % 
-🌃 Evening                1288 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+🌃 Evening                1289 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   6751 commits        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Tuesday                  3990 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Tuesday                  3991 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
 Wednesday                4845 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
 Thursday                 6788 commits        ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
 Friday                   4412 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
@@ -55,12 +57,6 @@ Sunday                   205 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
 No Activity Tracked This Week
 
 💻 Operating System: 
@@ -84,7 +80,6 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jefferson9246/Jefferson9246/main/assets/bar_graph.png)
 
 
- Last Updated on 06/02/2024 22:29:28 UTC
 <!--END_SECTION:waka-->
 
 ## Contact Me
