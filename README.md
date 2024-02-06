@@ -14,40 +14,13 @@ I am an electrical engineer and a computer technician. With over 3 years of expe
 <img loading="lazy" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson9246&layout=compact&langs_count=7&theme=dracula"/>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2014%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 40.2 kB Used in GitHub's Storage 
- > 
-> 🏆 67 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                10714 commits       ██████████░░░░░░░░░░░░░░░   39.68 % 
 🌆 Daytime                14997 commits       ██████████████░░░░░░░░░░░   55.54 % 
-🌃 Evening                1289 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+🌃 Evening                1290 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   6751 commits        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Tuesday                  3991 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Wednesday                4845 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-Thursday                 6788 commits        ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-Friday                   4412 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Saturday                 11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Sunday                   205 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 ```
 
 
@@ -57,9 +30,6 @@ Sunday                   205 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
