@@ -14,15 +14,25 @@ I am an electrical engineer and a computer technician. With over 3 years of expe
 <img loading="lazy" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson9246&layout=compact&langs_count=7&theme=dracula"/>
     
 <!--START_SECTION:waka-->
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                10714 commits       ██████████░░░░░░░░░░░░░░░   39.67 % 
-🌆 Daytime                14997 commits       ██████████████░░░░░░░░░░░   55.53 % 
-🌃 Evening                1291 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+🌞 Morning                11046 commits       ██████████░░░░░░░░░░░░░░░   39.68 % 
+🌆 Daytime                15460 commits       ██████████████░░░░░░░░░░░   55.53 % 
+🌃 Evening                1331 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 
