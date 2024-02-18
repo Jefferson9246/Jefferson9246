@@ -9,10 +9,15 @@ I am an electrical engineer and a computer technician. With over 3 years of expe
 <p  style="width: 10px">I am passionate about staying up-to-date with the latest developments in the tech industry. I am constantly exploring new programming languages, libraries, and tools to broaden my skillset and enhance my problem-solving capabilities. I am currently employed as a fullstack developer at OM30, where I apply my expertise to create innovative and efficient solutions for our clients. I enjoy working on challenging projects and collaborating with talented teams to deliver high-quality software products.
 </p>
 
-
+<div style="display: flex; flex-wrap: wrap; width: 100%">
+  <div style="box-sizing: border-box; padding: 1rem;width: calc((100% / 3) - 2rem);margin: 1rem">
+    
   <a href="https://github.com/Jefferson9246">
 <img loading="lazy" height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson9246&layout=compact&langs_count=7&theme=dracula"/>
   <br>
+  </div>
+  <div style="box-sizing: border-box; padding: 1rem;width: calc((100% / 3) - 2rem);margin: 1rem">
+    
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -26,6 +31,9 @@ I am an electrical engineer and a computer technician. With over 3 years of expe
 
 
 <!--END_SECTION:waka-->
+</div>
+</div>
+
 
 ## Contact Me
 
