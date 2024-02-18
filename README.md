@@ -19,19 +19,10 @@ I am an electrical engineer and a computer technician. With over 3 years of expe
 ```text
 🌞 Morning                13159 commits       ██████████░░░░░░░░░░░░░░░   39.72 % 
 🌆 Daytime                18370 commits       ██████████████░░░░░░░░░░░   55.45 % 
-🌃 Evening                1595 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+🌃 Evening                1597 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
 
 
 <!--END_SECTION:waka-->
