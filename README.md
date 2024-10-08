@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am an electrical engineer and a computer technician. With over 3 years of experience in the software development field, I have worked extensively with various programming languages, including PHP, JavaScript, and CSS. I have also gained proficiency in popular frameworks such as CodeIgniter and Laravel.
+I am an electrical engineer and a computer technician. With over 4 years of experience in the software development field, I have worked extensively with various programming languages, including PHP, JavaScript, and CSS. I have also gained proficiency in popular frameworks such as CodeIgniter and Laravel.
 
 ## My Journey
 
