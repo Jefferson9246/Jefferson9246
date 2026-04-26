@@ -18,9 +18,9 @@ I am an electrical engineer and a computer technician. With over 4 years of expe
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                232785 commits      █████████░░░░░░░░░░░░░░░░   37.87 % 
-🌆 Daytime                336629 commits      ██████████████░░░░░░░░░░░   54.76 % 
-🌃 Evening                45316 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+🌞 Morning                177199 commits      █████████░░░░░░░░░░░░░░░░   37.85 % 
+🌆 Daytime                256469 commits      ██████████████░░░░░░░░░░░   54.78 % 
+🌃 Evening                34489 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
 🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
