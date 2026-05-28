@@ -15,16 +15,6 @@ I am an electrical engineer and a computer technician. With over 4 years of expe
   <br>
     
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                246353 commits      █████████░░░░░░░░░░░░░░░░   37.86 % 
-🌆 Daytime                356448 commits      ██████████████░░░░░░░░░░░   54.78 % 
-🌃 Evening                47838 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
 
 <!--END_SECTION:waka-->
 
